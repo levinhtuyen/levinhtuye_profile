@@ -7,6 +7,7 @@
 <h2  align="center">I love languages</h2>
 
 <br />
+Building a successful product is a challenge. I am a front-end developer, who has a great passion for programming and loves to create things for the web. I enjoy working on new projects and pushing the boundaries of what's possible with code. I am always looking to learn new skills and techniques, so feel free to reach out if you need help with anything.
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
@@ -14,9 +15,15 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 <br/>
 
-- I am exploring what can do.
-- I have found the CMSes I will use for my projects.
-- I am working towards inner peace 🐼
+---
+
+### 💻 About me
+
+- Currently coding in **Ho Chi Minh**
+- Looking to collaborate with other people
+- Currently learning more about Node.JS, Web Design, UI and UX
+
+---
 
 ### 🤝🏾 Connect With Me
 
