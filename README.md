@@ -55,6 +55,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://levinhtuyen.github.io/profile_nuxt/)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://levinhtuyen.github.io/profile_nuxt/)
+[![restful](https://img.shields.io/badge/RESTful-005C84?style=for-the-badge&logo=RESTful&logoColor=white)](https://levinhtuyen.github.io/profile_nuxt/)
 
 ### ⚒️ Tools
 
