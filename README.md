@@ -11,6 +11,8 @@ Building a successful product is a challenge. I am a front-end developer, who ha
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
+<i>"I sincerely hope that you have gained new knowledge today, and that you will never forget to share what you have learned with others. After all, sharing is compassionate, and knowledge gains real value when it is shared. "</ i>
+<br />
 <h3 align='center'> I learn, I develop, I write, I tutor...</h3>
 
 <br/>
